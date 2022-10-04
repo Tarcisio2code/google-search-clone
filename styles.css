@@ -111,3 +111,25 @@ header > div > a:hover {
 .btn:hover {
     box-shadow: 0 0 1px rgb(118,118,118)
 }
+footer{
+    position: absolute;
+    bottom: 0;
+    background: #f2f2f2;
+    line-height: 40px;
+    width: 100%;
+    min-width: 1261px;
+    border-top: 1px solid #dadce0;
+}
+.footer-location{
+    border-bottom: 1px solid #dadce0;
+    color: #70757a;
+    font-size: 15px;
+    padding-left: 45px;
+}
+.footer-options{
+    color: #70757a;
+    margin: 0 45px;
+}
+.footer-text{
+    padding-left: 27px;
+}
